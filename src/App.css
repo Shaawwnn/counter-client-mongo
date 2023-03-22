@@ -83,3 +83,7 @@ button[disabled] {
     transform: rotate(360deg);
   }
 }
+
+a{
+  margin-top: 30px;
+}
