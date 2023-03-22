@@ -49,6 +49,10 @@ function App() {
       <button onClick={reset} className="reset">
         Reset
       </button>
+
+         <a href="https://counter-firebase-551dc.web.app/">
+        Counter with Firebase
+      </a>
     </div>
   );
 }
